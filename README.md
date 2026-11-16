@@ -7,7 +7,7 @@ This project is a implementation of the Reversi (Othello) board game featuring a
 
 ### 1. Algorithms & Complexity
 * **Minimax Strategy:** The agent utilizes a recursive search to minimize maximum possible loss.
-* **Alpha-Beta Pruning:** Optimizes the search complexity from $O(b^d)$ to approximately $O(b^{d/2})$ in the best case, allowing for deeper lookahead (typically 6-8 ply) within reasonable time limits.
+* **Alpha-Beta Pruning:** Optimizes the search complexity from $O(b^d)$ to approximately $O(b^{d/2})$ in the best case, allowing for deeper lookahead (typically 4-7 ply) within reasonable time limits.
 
 ### 2. Heuristic Evaluation Function
 The AI evaluates board states using a weighted linear function based on four strategic pillars:
