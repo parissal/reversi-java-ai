@@ -31,7 +31,7 @@ The codebase follows standard Object-Oriented principles:
 ### Installation & Execution
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/java-reversi-ai.git](https://github.com/YOUR_USERNAME/java-reversi-ai.git)
+    git clone [https://github.com/parissal/java-reversi-ai.git](https://github.com/parissal/java-reversi-ai.git)
     cd java-reversi-ai
     ```
 
